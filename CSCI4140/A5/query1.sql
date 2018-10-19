@@ -1,0 +1,1 @@
+Alter table student_info add (Abb_Name varchar (10));

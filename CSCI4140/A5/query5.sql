@@ -1,0 +1,1 @@
+delete from student_info where ID=101;
